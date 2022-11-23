@@ -1,0 +1,10 @@
+4/13 t0 4/19
+	Lesson1.java - 	print, println
+	Lesson2.java - 	Strings, Doubles, Ints, printf
+	Lesson3.java - 	java.util.*
+					Scanner input = new Scanner(System.in);
+					int num1 = input.nextInt();
+					double d1 = input.nextDouble();
+					String firstName = input.nextLine();
+					if statements
+					word2.equals("computer")

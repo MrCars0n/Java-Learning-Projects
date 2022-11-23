@@ -1,0 +1,24 @@
+// Carson Kramer
+// 4-20-20
+// Period 5
+// Largest and Smallest Integers 2.24
+
+import java.util.*;
+
+public class Chapter2Prog24
+{
+  public static void main(String args[])
+  {
+    Scanner input = new Scanner(System.in);
+    
+    int nums[4];
+    String numsLetters[4] = {"first, second", "third", "fourth", "fifth"};
+    
+    for (int x = 0; x < 5; x++)
+    {
+      System.out.print("Please enter the" numsLetters[x] + "number: ");
+      int nums[x] = input.nextInt();
+    }
+    
+  }
+}

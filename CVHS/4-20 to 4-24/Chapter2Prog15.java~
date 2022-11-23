@@ -1,0 +1,13 @@
+// Carson Kramer
+// 4-20-20
+// Period 5
+// Displaying Shapes with Asterisks 2.18
+
+import java.util.*;
+
+public class Chapter2Prog18
+{
+  public static void main(String args[])
+  {
+  }
+}

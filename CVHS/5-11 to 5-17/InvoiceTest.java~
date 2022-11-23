@@ -1,0 +1,14 @@
+// Carson Kramer
+// 5-17-20
+// Period 5
+// Invoice Class
+
+public Class Invoice
+{
+  private String partNum;
+  private String partDesc;
+  private String quantity;
+  private String price;
+  
+  
+}

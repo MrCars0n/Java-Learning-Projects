@@ -1,0 +1,21 @@
+// Carson Kramer
+// 5-17-20
+// Period 5
+// Employee Class
+
+import java.util.*;
+
+public class EmployeeTest
+{
+ public static void main(String args[])
+ {
+   
+ }
+}
+
+class Employee
+{
+  private String firstName;
+  private String lastName;
+  private double 
+}

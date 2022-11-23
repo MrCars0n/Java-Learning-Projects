@@ -1,0 +1,23 @@
+// Carson Kramer
+// 4-20-20
+// Period 5
+// Separating the Digits in an Integer 2.30
+
+import java.util.*;
+
+public class Chapter2Prog30
+{
+  public static void main(String args[])
+  {
+    Scanner input = new Scanner(System.in);
+    
+    System.out.print("Please enter a number: ");
+    int num1 = input.nextInt();
+    
+    for (int x = 0; x < 5; x++)
+    {
+      System.out.printf(num1[x] + "\t")
+    }
+  }
+}
+    

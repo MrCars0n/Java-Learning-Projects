@@ -1,0 +1,29 @@
+// Carson Kramer
+// 4-20-20
+// Period 5
+// Multiples 2.26
+
+import java.util.*;
+
+public class Chapter2Prog26
+{
+  public static void main(String args[])
+  {
+    Scanner input = new Scanner(System.in);
+    
+    System.out.print("Please enter the first number: ");
+    int num1 = input.nextInt();
+    
+    System.out.print("Please enter the second number: ");
+    int num2 = input.nextInt();
+    
+    if (num2 % num1 == 0)
+    {
+      System.out.println(num1 + " is a multiple of " + num2);
+    }
+    else
+    {
+      System.out.println(num1 + " is NOT a multiple of " + num2);
+    }
+  }
+}
